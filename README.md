@@ -1,6 +1,12 @@
-# Nuxt 3 Minimal Starter
+# My Nuxt 3 Starter Template
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+includes:
+- `@nuxtjs/device` mobile/desktop detection 
+- `@nuxtjs/i18n` multilang. suuport
+- `@nuxtjs/tailwindcss` tailwind
+- `@pinia/nuxt` vue 3 store
+- `eslint` + `stylelint` code linters
+
 
 ## Setup
 
